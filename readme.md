@@ -10,7 +10,7 @@ To use this script, follow the instructions below:
 1. Clone the repository by running the following command in your terminal or command prompt:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Shabbir-Handa/job_search_automation.git
 ```
 
 2. Navigate to the project directory:
